@@ -1,5 +1,5 @@
 [![Daniel Klöck's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkk)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dkk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dkk&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **dkk/dkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
